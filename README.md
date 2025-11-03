@@ -2,7 +2,7 @@
 
 A 2D space-themed minesweeper.
 
-_Please note: The full source code is omitted from this public mirror to preserve academic integrity._
+_Please note: The full source code is omitted from this public mirror to preserve academic integrity. It can be provided for review upon request._
 
 ## Features
 
