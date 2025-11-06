@@ -4,6 +4,9 @@ A 2D space-themed minesweeper.
 
 _Please note: The full source code is omitted from this public mirror to preserve academic integrity._
 
+## Game demo
+<img src="./demo.gif" alt="game demo" style="width: 80%; height: auto; display: block; margin: auto;"/>
+
 ## Features
 
 - Your ship moves toward mouse.
